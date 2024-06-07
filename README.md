@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi everyone 👋 : I'm Matthieu (aka yodamad)
 
-<!--
-**yodamad/yodamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech advocate and DevOps Platform Leader [Sopra Steria](https://soprasteria.com) company.
 
-Here are some ideas to get you started:
+I'm working in IT for more than 15 years, and love that 😅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For some years, I'm also :
+- ✍️ writing some articles to discover tools, langages in my [blog](https://yodamad.hashnode.dev/)
+  - 🗞️ You can subscribe to the [newsletter](https://yodamad.hashnode.dev/newsletter) to receive to future ones
+- 🌋 organizing the tech conference [Volcamp](https://volcamp.io) in my home region
+- 🎤 speaking in conferences since 2022 (DevoXX France, Breizhcamp, Snowcamp, DevFest Lille...)
+- 🦊 participating to GitLab Hero program
+- 🤖 helping a cool company called [R2DevOps](https://r2devops.io/) that provide a tool to secure your company software supply chain
+
+When I'm not coding or talking about tech, I love building Lego 🧱 and playing basketball with my kid.
+
+🐦 Follow me 
+
+<a href="https://twitter.com/yodamad03"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yodamad03?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> &nbsp;
+![GitHub followers](https://img.shields.io/github/followers/yodamad)
+
+📈 Fun stats
+
+[![yodamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yodamad)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yodamad/gitlab-emoji&type=Date)](https://star-history.com/#yodamad/gitlab-emoji&Date)
