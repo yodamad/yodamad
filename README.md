@@ -23,4 +23,6 @@ When I'm not coding or talking about tech, I love building Lego 🧱 and playing
 
 [![yodamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yodamad)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yodamad/gitlab-emoji,yodamad/svn2git,yodamad/heimdall&type=Date)](https://star-history.com/#yodamad/gitlab-emoji&yodamad/svn2git,yodamad/heimdall&Date)
+[![Star History Chart](## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yodamad/easylab,yodamad/migraptor,yodamad/heimdall,yodamad/svn2git,yodamad/gitlab-emoji&type=date&legend=top-left)](https://www.star-history.com/#yodamad/easylab&yodamad/migraptor&yodamad/heimdall&yodamad/svn2git&yodamad/gitlab-emoji&type=date&legend=top-left))
