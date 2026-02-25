@@ -18,11 +18,7 @@ When I'm not coding or talking about tech, I love building Lego 🧱 and playing
 
 🐦 Follow me 
 
-<a href="https://twitter.com/yodamad03"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yodamad03?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> &nbsp;
+<a href="[https://twitter.com/yodamad03](https://x.com/yodamad03)"><img alt="X Follow" src="https://img.shields.io/twitter/follow/yodamad03?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/yodamad)
-
-📈 Fun stats
-
-[![yodamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yodamad)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yodamad/easylab,yodamad/migraptor,yodamad/heimdall,yodamad/svn2git,yodamad/gitlab-emoji&type=date&legend=top-left)](https://www.star-history.com/#yodamad/easylab&yodamad/migraptor&yodamad/heimdall&yodamad/svn2git&yodamad/gitlab-emoji&type=date&legend=top-left)
